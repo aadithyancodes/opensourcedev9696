@@ -3,7 +3,7 @@
 
   
 ### Like my work?
-[<img align="left" alt="opensourcedev9696" width="32px" src="https://raw.githubusercontent.com/opensourcedev9696/files/1.png" />][bmac]
-[<img align="left" alt="opensourcedev9696" width="32px" src="https://raw.githubusercontent.com/opensourcedev9696/files/2.png" />][ko-fi]
-[<img align="left" alt="opensourcedev9696" width="32px" src="https://raw.githubusercontent.com/opensourcedev9696/files/3.png" />][paypal]
+[<img align="left" alt="opensourcedev9696" width="32px" src="https://raw.githubusercontent.com/opensourcedev9696/files/main/1.png" />][bmac]
+[<img align="left" alt="opensourcedev9696" width="32px" src="https://raw.githubusercontent.com/opensourcedev9696/files/main/2.png" />][ko-fi]
+[<img align="left" alt="opensourcedev9696" width="32px" src="https://raw.githubusercontent.com/opensourcedev9696/files/main/3.png" />][paypal]
 
